@@ -1,0 +1,1958 @@
+{
+    "nodes": [
+        {
+            "name": "event0",
+            "event": {
+                "event_no": 0,
+                "people": [
+                    "钟缙",
+                    "钟绅",
+                    "赵云"
+                ],
+                "time": "",
+                "location": "长坂桥",
+                "description": "赵云脱险长坂桥",
+                "chapter": 42,
+                "paragraph": 1,
+                "seqNum": 42.01,
+                "eventHeight": 25.125
+            }
+        },
+        {
+            "name": "event1",
+            "event": {
+                "event_no": 1,
+                "people": [
+                    "赵云",
+                    "刘备"
+                ],
+                "time": "",
+                "location": "长板桥",
+                "description": "刘备摔阿斗",
+                "chapter": 42,
+                "paragraph": 2,
+                "seqNum": 42.02,
+                "eventHeight": 20.25
+            }
+        },
+        {
+            "name": "event2",
+            "event": {
+                "event_no": 2,
+                "people": [
+                    "张飞",
+                    "曹操"
+                ],
+                "time": "",
+                "location": "长坂桥",
+                "description": "张飞长坂桥独退曹家兵",
+                "chapter": 42,
+                "paragraph": 3,
+                "seqNum": 42.03,
+                "eventHeight": 15.25
+            }
+        },
+        {
+            "name": "event3",
+            "event": {
+                "event_no": 3,
+                "people": [
+                    "刘备",
+                    "张飞"
+                ],
+                "time": "",
+                "location": "",
+                "description": "张飞断桥梁,刘备投汉津",
+                "chapter": 42,
+                "paragraph": 4,
+                "seqNum": 42.04,
+                "eventHeight": 17.25
+            }
+        },
+        {
+            "name": "event4",
+            "event": {
+                "event_no": 4,
+                "people": [
+                    "曹操",
+                    "张辽",
+                    "李典"
+                ],
+                "time": "",
+                "location": "",
+                "description": "曹操识破张飞计谋,令进兵刘备",
+                "chapter": 42,
+                "paragraph": 4,
+                "seqNum": 42.04,
+                "eventHeight": 27.0625
+            }
+        },
+        {
+            "name": "event5",
+            "event": {
+                "event_no": 5,
+                "people": [
+                    "刘备",
+                    "关羽",
+                    "曹操"
+                ],
+                "time": "",
+                "location": "",
+                "description": "曹操追刘至江边,关羽现解刘围,曹速退",
+                "chapter": 42,
+                "paragraph": 5,
+                "seqNum": 42.05,
+                "eventHeight": 42
+            }
+        },
+        {
+            "name": "event6",
+            "event": {
+                "event_no": 6,
+                "people": [
+                    "刘备",
+                    "刘琦",
+                    "诸葛亮"
+                ],
+                "time": "",
+                "location": "江上",
+                "description": "刘备,刘琦,诸葛亮江上汇合,共投江夏",
+                "chapter": 42,
+                "paragraph": 6,
+                "seqNum": 42.06,
+                "eventHeight": 32.0625
+            }
+        },
+        {
+            "name": "event7",
+            "event": {
+                "event_no": 7,
+                "people": [
+                    "曹操",
+                    "荀攸"
+                ],
+                "time": "",
+                "location": "荆州",
+                "description": "曹破荆州,荀攸献计破刘(战略:83万军)",
+                "chapter": 42,
+                "paragraph": 7,
+                "seqNum": 42.07,
+                "eventHeight": 39
+            }
+        },
+        {
+            "name": "event8",
+            "event": {
+                "event_no": 8,
+                "people": [
+                    "孙权",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "江东",
+                "description": "孙权闻曹至江陵,与众将议御守之策,鲁肃献策",
+                "chapter": 42,
+                "paragraph": 8,
+                "seqNum": 42.08,
+                "eventHeight": 18.75
+            }
+        },
+        {
+            "name": "event9",
+            "event": {
+                "event_no": 9,
+                "people": [
+                    "刘备",
+                    "诸葛亮"
+                ],
+                "time": "",
+                "location": "江夏",
+                "description": "诸葛亮献计联吴抗曹",
+                "chapter": 42,
+                "paragraph": 8,
+                "seqNum": 42.08,
+                "eventHeight": 31.5
+            }
+        },
+        {
+            "name": "event10",
+            "event": {
+                "event_no": 10,
+                "people": [
+                    "鲁肃",
+                    "刘备"
+                ],
+                "time": "",
+                "location": "江夏",
+                "description": "鲁肃至江夏会刘,欲访孔明",
+                "chapter": 42,
+                "paragraph": 9,
+                "seqNum": 42.09,
+                "eventHeight": 26.25
+            }
+        },
+        {
+            "name": "event11",
+            "event": {
+                "event_no": 11,
+                "people": [
+                    "诸葛亮",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "江夏",
+                "description": "鲁肃邀诸葛亮去江东,共图大事",
+                "chapter": 42,
+                "paragraph": 10,
+                "seqNum": 42.1,
+                "eventHeight": 22.75
+            }
+        },
+        {
+            "name": "event12",
+            "event": {
+                "event_no": 12,
+                "people": [
+                    "鲁肃",
+                    "诸葛亮"
+                ],
+                "time": "",
+                "location": "江东",
+                "description": "诸葛亮鲁肃至江东",
+                "chapter": 43,
+                "paragraph": 1,
+                "seqNum": 43.01,
+                "eventHeight": 22.75
+            }
+        },
+        {
+            "name": "event13",
+            "event": {
+                "event_no": 13,
+                "people": [
+                    "孙权",
+                    "张昭",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "江东",
+                "description": "孙权等众议曹之策,尚无定论",
+                "chapter": 43,
+                "paragraph": 1,
+                "seqNum": 43.01,
+                "eventHeight": 26.8125
+            }
+        },
+        {
+            "name": "event14",
+            "event": {
+                "event_no": 14,
+                "people": [
+                    "孙权",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "",
+                "description": "鲁肃说孙权不可降曹操,提及诸葛亮",
+                "chapter": 43,
+                "paragraph": 2,
+                "seqNum": 43.02,
+                "eventHeight": 18.75
+            }
+        },
+        {
+            "name": "event15",
+            "event": {
+                "event_no": 15,
+                "people": [
+                    "诸葛亮",
+                    "张昭"
+                ],
+                "time": "",
+                "location": "",
+                "description": "张昭发难诸葛亮,亮遂还击,大胜昭",
+                "chapter": 43,
+                "paragraph": 2,
+                "seqNum": 43.02,
+                "eventHeight": 33.75
+            }
+        },
+        {
+            "name": "event16",
+            "event": {
+                "event_no": 16,
+                "people": [
+                    "诸葛亮",
+                    "虞翻",
+                    "步骘",
+                    "薛综",
+                    "陆绩",
+                    "严峻",
+                    "程德枢",
+                    "张温",
+                    "骆统"
+                ],
+                "time": "",
+                "location": "",
+                "description": "诸葛亮舌战群儒",
+                "chapter": 43,
+                "paragraph": 3,
+                "seqNum": 43.03,
+                "eventHeight": 40.351715087890625
+            }
+        },
+        {
+            "name": "event17",
+            "event": {
+                "event_no": 17,
+                "people": [
+                    "诸葛亮",
+                    "黄盖",
+                    "鲁肃",
+                    "诸葛瑾"
+                ],
+                "time": "",
+                "location": "",
+                "description": "鲁肃等引诸葛亮见孔明",
+                "chapter": 43,
+                "paragraph": 6,
+                "seqNum": 43.06,
+                "eventHeight": 25.359375
+            }
+        },
+        {
+            "name": "event18",
+            "event": {
+                "event_no": 18,
+                "people": [
+                    "诸葛亮",
+                    "鲁肃",
+                    "孙权"
+                ],
+                "time": "",
+                "location": "",
+                "description": "诸葛亮智说孙权",
+                "chapter": 43,
+                "paragraph": 6,
+                "seqNum": 43.06,
+                "eventHeight": 21.0625
+            }
+        },
+        {
+            "name": "event19",
+            "event": {
+                "event_no": 19,
+                "people": [
+                    "孙权",
+                    "张昭",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "",
+                "description": "众将文欲降武欲战,孙权犹豫不决",
+                "chapter": 43,
+                "paragraph": 7,
+                "seqNum": 43.07,
+                "eventHeight": 26.8125
+            }
+        },
+        {
+            "name": "event20",
+            "event": {
+                "event_no": 20,
+                "people": [
+                    "吴国太",
+                    "孙权"
+                ],
+                "time": "",
+                "location": "",
+                "description": "吴国太向孙权荐周瑜",
+                "chapter": 44,
+                "paragraph": 1,
+                "seqNum": 44.01,
+                "eventHeight": 28.25
+            }
+        },
+        {
+            "name": "event21",
+            "event": {
+                "event_no": 21,
+                "people": [
+                    "周瑜",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "",
+                "description": "鲁肃见周瑜",
+                "chapter": 44,
+                "paragraph": 1,
+                "seqNum": 44.01,
+                "eventHeight": 24.5
+            }
+        },
+        {
+            "name": "event22",
+            "event": {
+                "event_no": 22,
+                "people": [
+                    "周瑜",
+                    "张昭",
+                    "顾雍",
+                    "张纮",
+                    "步骘"
+                ],
+                "time": "",
+                "location": "",
+                "description": "劝周瑜",
+                "chapter": 44,
+                "paragraph": 2,
+                "seqNum": 44.02,
+                "eventHeight": 36.23828125
+            }
+        },
+        {
+            "name": "event23",
+            "event": {
+                "event_no": 23,
+                "people": [
+                    "周瑜",
+                    "程普",
+                    "黄盖",
+                    "韩当"
+                ],
+                "time": "",
+                "location": "",
+                "description": "劝周瑜",
+                "chapter": 44,
+                "paragraph": 3,
+                "seqNum": 44.03,
+                "eventHeight": 40.515625
+            }
+        },
+        {
+            "name": "event24",
+            "event": {
+                "event_no": 24,
+                "people": [
+                    "周瑜",
+                    "诸葛瑾",
+                    "吕范",
+                    "吕蒙",
+                    "甘宁"
+                ],
+                "time": "",
+                "location": "",
+                "description": "劝周瑜",
+                "chapter": 44,
+                "paragraph": 4,
+                "seqNum": 44.04,
+                "eventHeight": 27.34765625
+            }
+        },
+        {
+            "name": "event25",
+            "event": {
+                "event_no": 25,
+                "people": [
+                    "周瑜",
+                    "鲁肃",
+                    "诸葛亮"
+                ],
+                "time": "",
+                "location": "周瑜处",
+                "description": "孔明用智激周瑜,孙权决计破曹操",
+                "chapter": 44,
+                "paragraph": 5,
+                "seqNum": 44.05,
+                "eventHeight": 25.8125
+            }
+        },
+        {
+            "name": "event26",
+            "event": {
+                "event_no": 26,
+                "people": [
+                    "周瑜",
+                    "诸葛瑾",
+                    "诸葛亮"
+                ],
+                "time": "",
+                "location": "",
+                "description": "周瑜与诸葛瑾欲劝诸葛亮事孙权未遂,周瑜谋伏孔明之计",
+                "chapter": 44,
+                "paragraph": 8,
+                "seqNum": 44.08,
+                "eventHeight": 21.875
+            }
+        },
+        {
+            "name": "event27",
+            "event": {
+                "event_no": 27,
+                "people": [
+                    "周瑜",
+                    "诸葛亮",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "三江口附近",
+                "description": "周瑜欲以断曹粮草之计杀诸葛亮,被诸葛亮识破",
+                "chapter": 45,
+                "paragraph": 1,
+                "seqNum": 45.01,
+                "eventHeight": 25.8125
+            }
+        },
+        {
+            "name": "event28",
+            "event": {
+                "event_no": 28,
+                "people": [
+                    "糜竺",
+                    "刘备"
+                ],
+                "time": "",
+                "location": "夏口",
+                "description": "刘备派糜竺去东吴探虚实",
+                "chapter": 45,
+                "paragraph": 4,
+                "seqNum": 45.04,
+                "eventHeight": 37.5
+            }
+        },
+        {
+            "name": "event29",
+            "event": {
+                "event_no": 29,
+                "people": [
+                    "糜竺",
+                    "周瑜",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "周瑜大寨",
+                "description": "周瑜设计杀刘备",
+                "chapter": 45,
+                "paragraph": 4,
+                "seqNum": 45.04,
+                "eventHeight": 27.375
+            }
+        },
+        {
+            "name": "event30",
+            "event": {
+                "event_no": 30,
+                "people": [
+                    "刘备",
+                    "关羽",
+                    "周瑜",
+                    "诸葛亮",
+                    "张飞"
+                ],
+                "time": "",
+                "location": "",
+                "description": "刘备带关羽赴会江东,有惊无险",
+                "chapter": 45,
+                "paragraph": 4,
+                "seqNum": 45.04,
+                "eventHeight": 33.59765625
+            }
+        },
+        {
+            "name": "event31",
+            "event": {
+                "event_no": 31,
+                "people": [
+                    "周瑜",
+                    "鲁肃",
+                    "甘宁",
+                    "韩当",
+                    "蒋钦"
+                ],
+                "time": "",
+                "location": "江东",
+                "description": "周瑜毁书斩使,部署战斗(甘宁为先锋,韩当为左翼,蒋钦为右翼)",
+                "chapter": 45,
+                "paragraph": 7,
+                "seqNum": 45.07,
+                "eventHeight": 28.3046875
+            }
+        },
+        {
+            "name": "event32",
+            "event": {
+                "event_no": 32,
+                "people": [
+                    "甘宁",
+                    "蒋钦",
+                    "韩当",
+                    "曹操",
+                    "蔡瑁",
+                    "张允",
+                    "蔡壎"
+                ],
+                "time": "",
+                "location": "三江口",
+                "description": "甘宁三江口挫败曹军",
+                "chapter": 45,
+                "paragraph": 8,
+                "seqNum": 45.08,
+                "eventHeight": 37.97119140625
+            }
+        },
+        {
+            "name": "event33",
+            "event": {
+                "event_no": 33,
+                "people": [
+                    "曹操",
+                    "蔡瑁",
+                    "张允"
+                ],
+                "time": "",
+                "location": "旱寨",
+                "description": "曹军分析败军原因,张、蔡二人训练水军",
+                "chapter": 45,
+                "paragraph": 9,
+                "seqNum": 45.09,
+                "eventHeight": 38.0625
+            }
+        },
+        {
+            "name": "event34",
+            "event": {
+                "event_no": 34,
+                "people": [
+                    "周瑜",
+                    "曹操"
+                ],
+                "time": "",
+                "location": "",
+                "description": "周瑜窥看曹水军",
+                "chapter": 45,
+                "paragraph": 10,
+                "seqNum": 45.1,
+                "eventHeight": 34.25
+            }
+        },
+        {
+            "name": "event35",
+            "event": {
+                "event_no": 35,
+                "people": [
+                    "曹操",
+                    "蒋干"
+                ],
+                "time": "",
+                "location": "",
+                "description": "曹派蒋干说周瑜",
+                "chapter": 45,
+                "paragraph": 11,
+                "seqNum": 45.11,
+                "eventHeight": 25.75
+            }
+        },
+        {
+            "name": "event36",
+            "event": {
+                "event_no": 36,
+                "people": [
+                    "周瑜",
+                    "曹操",
+                    "蒋干"
+                ],
+                "time": "",
+                "location": "",
+                "description": "曹操中计周瑜,斩杀蔡张(另选毛玠,于禁为水军提督)",
+                "chapter": 45,
+                "paragraph": 12,
+                "seqNum": 45.12,
+                "eventHeight": 28.0625
+            }
+        },
+        {
+            "name": "event37",
+            "event": {
+                "event_no": 37,
+                "people": [
+                    "诸葛亮",
+                    "鲁肃",
+                    "周瑜"
+                ],
+                "time": "",
+                "location": "",
+                "description": "周瑜设计害诸葛亮,诸葛亮草船借箭",
+                "chapter": 46,
+                "paragraph": 1,
+                "seqNum": 46.01,
+                "eventHeight": 25.8125
+            }
+        },
+        {
+            "name": "event38",
+            "event": {
+                "event_no": 38,
+                "people": [
+                    "诸葛亮",
+                    "周瑜"
+                ],
+                "time": "",
+                "location": "",
+                "description": "诸葛亮与周瑜密谋火攻曹军",
+                "chapter": 46,
+                "paragraph": 5,
+                "seqNum": 46.05,
+                "eventHeight": 29.75
+            }
+        },
+        {
+            "name": "event39",
+            "event": {
+                "event_no": 39,
+                "people": [
+                    "曹操",
+                    "蔡中",
+                    "蔡和",
+                    "周瑜",
+                    "甘宁"
+                ],
+                "time": "",
+                "location": "",
+                "description": "曹操诈降,周瑜将计就计",
+                "chapter": 46,
+                "paragraph": 6,
+                "seqNum": 46.06,
+                "eventHeight": 23.3515625
+            }
+        },
+        {
+            "name": "event40",
+            "event": {
+                "event_no": 40,
+                "people": [
+                    "周瑜",
+                    "黄盖",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "",
+                "description": "为蒙蔽曹操,献密计黄盖受刑",
+                "chapter": 46,
+                "paragraph": 9,
+                "seqNum": 46.09,
+                "eventHeight": 29.625
+            }
+        },
+        {
+            "name": "event41",
+            "event": {
+                "event_no": 41,
+                "people": [
+                    "阚泽",
+                    "曹操",
+                    "黄盖"
+                ],
+                "time": "",
+                "location": "曹军水寨",
+                "description": "阚泽密献诈降书",
+                "chapter": 47,
+                "paragraph": 1,
+                "seqNum": 47.01,
+                "eventHeight": 21
+            }
+        },
+        {
+            "name": "event42",
+            "event": {
+                "event_no": 42,
+                "people": [
+                    "周瑜",
+                    "鲁肃",
+                    "庞统"
+                ],
+                "time": "",
+                "location": "江东",
+                "description": "周瑜,庞统商破曹之计",
+                "chapter": 47,
+                "paragraph": 5,
+                "seqNum": 47.05,
+                "eventHeight": 19.4375
+            }
+        },
+        {
+            "name": "event43",
+            "event": {
+                "event_no": 43,
+                "people": [
+                    "庞统",
+                    "蒋干",
+                    "周瑜"
+                ],
+                "time": "",
+                "location": "江东",
+                "description": "周瑜,庞统下套蒋干",
+                "chapter": 47,
+                "paragraph": 6,
+                "seqNum": 47.06,
+                "eventHeight": 19.8125
+            }
+        },
+        {
+            "name": "event44",
+            "event": {
+                "event_no": 44,
+                "people": [
+                    "庞统",
+                    "蒋干",
+                    "曹操"
+                ],
+                "time": "",
+                "location": "操寨",
+                "description": "庞统施计曹操",
+                "chapter": 47,
+                "paragraph": 8,
+                "seqNum": 47.08,
+                "eventHeight": 19.5625
+            }
+        },
+        {
+            "name": "event45",
+            "event": {
+                "event_no": 45,
+                "people": [
+                    "庞统",
+                    "徐庶"
+                ],
+                "time": "建安十三年冬十一月十四",
+                "location": "曹营",
+                "description": "徐庶识破连环计,庞统遇故人",
+                "chapter": 48,
+                "paragraph": 1,
+                "seqNum": 48.01,
+                "eventHeight": 22.25
+            }
+        },
+        {
+            "name": "event46",
+            "event": {
+                "event_no": 46,
+                "people": [
+                    "曹操",
+                    "徐庶",
+                    "臧霸"
+                ],
+                "time": "建安十三年冬十一月十五",
+                "location": "曹营",
+                "description": "徐庶请命守散关",
+                "chapter": 48,
+                "paragraph": 2,
+                "seqNum": 48.02,
+                "eventHeight": 28.625
+            }
+        },
+        {
+            "name": "event47",
+            "event": {
+                "event_no": 47,
+                "people": [
+                    "曹操"
+                ],
+                "time": "建安十三年冬十一月十五",
+                "location": "曹营",
+                "description": "宴长江曹操赋诗",
+                "chapter": 48,
+                "paragraph": 2,
+                "seqNum": 48.02,
+                "eventHeight": 34
+            }
+        },
+        {
+            "name": "event48",
+            "event": {
+                "event_no": 48,
+                "people": [
+                    "曹操",
+                    "刘馥"
+                ],
+                "time": "建安十三年冬十一月十五",
+                "location": "曹营",
+                "description": "曹操醉杀刘馥",
+                "chapter": 48,
+                "paragraph": 2,
+                "seqNum": 48.02,
+                "eventHeight": 16
+            }
+        },
+        {
+            "name": "event49",
+            "event": {
+                "event_no": 49,
+                "people": [
+                    "周瑜",
+                    "韩当",
+                    "周泰",
+                    "焦触",
+                    "张南",
+                    "文聘"
+                ],
+                "time": "",
+                "location": "",
+                "description": "周军与曹军小战,周小胜",
+                "chapter": 48,
+                "paragraph": 4,
+                "seqNum": 48.04,
+                "eventHeight": 42.126953125
+            }
+        },
+        {
+            "name": "event50",
+            "event": {
+                "event_no": 50,
+                "people": [
+                    "周瑜",
+                    "诸葛亮",
+                    "鲁肃"
+                ],
+                "time": "",
+                "location": "",
+                "description": "周瑜卧病,诸葛亮医之",
+                "chapter": 49,
+                "paragraph": 1,
+                "seqNum": 49.01,
+                "eventHeight": 25.8125
+            }
+        },
+        {
+            "name": "event51",
+            "event": {
+                "event_no": 51,
+                "people": [
+                    "诸葛亮",
+                    "周瑜"
+                ],
+                "time": "十一月二十日前后",
+                "location": "南屏山七星坛",
+                "description": "七星坛诸葛祭风",
+                "chapter": 49,
+                "paragraph": 3,
+                "seqNum": 49.03,
+                "eventHeight": 29.75
+            }
+        },
+        {
+            "name": "event52",
+            "event": {
+                "event_no": 52,
+                "people": [
+                    "诸葛亮",
+                    "丁奉",
+                    "徐盛",
+                    "周瑜"
+                ],
+                "time": "",
+                "location": "",
+                "description": "周郎妒英才欲杀亮,未遂",
+                "chapter": 49,
+                "paragraph": 6,
+                "seqNum": 49.06,
+                "eventHeight": 23.421875
+            }
+        },
+        {
+            "name": "event53",
+            "event": {
+                "event_no": 53,
+                "people": [
+                    "周瑜",
+                    "孙权"
+                ],
+                "time": "",
+                "location": "",
+                "description": "周瑜部署战略",
+                "chapter": 49,
+                "paragraph": 7,
+                "seqNum": 49.07,
+                "eventHeight": 22.25
+            }
+        },
+        {
+            "name": "event54",
+            "event": {
+                "event_no": 54,
+                "people": [
+                    "诸葛亮",
+                    "刘备"
+                ],
+                "time": "",
+                "location": "",
+                "description": "诸葛亮部署战略",
+                "chapter": 49,
+                "paragraph": 9,
+                "seqNum": 49.09,
+                "eventHeight": 31.5
+            }
+        },
+        {
+            "name": "event55",
+            "event": {
+                "event_no": 55,
+                "people": [
+                    "周瑜",
+                    "曹操",
+                    "黄盖"
+                ],
+                "time": "",
+                "location": "三江口",
+                "description": "三江口周瑜纵火",
+                "chapter": 49,
+                "paragraph": 11,
+                "seqNum": 49.11,
+                "eventHeight": 36.9375
+            }
+        },
+        {
+            "name": "event56",
+            "event": {
+                "event_no": 56,
+                "people": [
+                    "曹操",
+                    "张辽",
+                    "周军"
+                ],
+                "time": "",
+                "location": "",
+                "description": "三江水战,赤壁鏖兵",
+                "chapter": 50,
+                "paragraph": 1,
+                "seqNum": 50.01,
+                "eventHeight": 22.5625
+            }
+        },
+        {
+            "name": "event57",
+            "event": {
+                "event_no": 57,
+                "people": [
+                    "曹操",
+                    "张辽",
+                    "吕蒙",
+                    "凌统"
+                ],
+                "time": "",
+                "location": "乌林",
+                "description": "寻路逃亡",
+                "chapter": 50,
+                "paragraph": 1,
+                "seqNum": 50.01,
+                "eventHeight": 25.390625
+            }
+        },
+        {
+            "name": "event58",
+            "event": {
+                "event_no": 58,
+                "people": [
+                    "曹操",
+                    "张辽",
+                    "徐晃",
+                    "马延",
+                    "张顗"
+                ],
+                "time": "",
+                "location": "",
+                "description": "合淝救兵无望,逃向彝陵",
+                "chapter": 50,
+                "paragraph": 1,
+                "seqNum": 50.01,
+                "eventHeight": 30.1015625
+            }
+        },
+        {
+            "name": "event59",
+            "event": {
+                "event_no": 59,
+                "people": [
+                    "曹操",
+                    "李典",
+                    "许褚",
+                    "张飞"
+                ],
+                "time": "",
+                "location": "",
+                "description": "曹操彝陵遇众官,遭张飞截断",
+                "chapter": 50,
+                "paragraph": 1,
+                "seqNum": 50.01,
+                "eventHeight": 23.46875
+            }
+        },
+        {
+            "name": "event60",
+            "event": {
+                "event_no": 60,
+                "people": [
+                    "曹操",
+                    "张辽",
+                    "张飞"
+                ],
+                "time": "",
+                "location": "",
+                "description": "曹操投道华容道,关羽义释曹操",
+                "chapter": 50,
+                "paragraph": 3,
+                "seqNum": 50.03,
+                "eventHeight": 18.0625
+            }
+        },
+        {
+            "name": "event61",
+            "event": {
+                "event_no": 61,
+                "people": [
+                    "曹操",
+                    "曹仁",
+                    "夏侯淳",
+                    "张辽",
+                    "曹洪"
+                ],
+                "time": "",
+                "location": "谷口",
+                "description": "曹操忆过往,部署新策",
+                "chapter": 50,
+                "paragraph": 6,
+                "seqNum": 50.06,
+                "eventHeight": 21.8203125
+            }
+        },
+        {
+            "name": "event62",
+            "event": {
+                "event_no": 62,
+                "people": [
+                    "诸葛亮",
+                    "刘备",
+                    "关羽"
+                ],
+                "time": "",
+                "location": "",
+                "description": "关羽放走曹操,咎其责",
+                "chapter": 50,
+                "paragraph": 7,
+                "seqNum": 50.07,
+                "eventHeight": 38.625
+            }
+        }
+    ],
+    "links": [
+        {
+            "source": "event0",
+            "target": "event1",
+            "value": "1",
+            "people": "赵云"
+        },
+        {
+            "source": "event1",
+            "target": "event3",
+            "value": "1",
+            "people": "刘备"
+        },
+        {
+            "source": "event2",
+            "target": "event3",
+            "value": "1",
+            "people": "张飞"
+        },
+        {
+            "source": "event2",
+            "target": "event4",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event3",
+            "target": "event5",
+            "value": "1",
+            "people": "刘备"
+        },
+        {
+            "source": "event3",
+            "target": "event30",
+            "value": "1",
+            "people": "张飞"
+        },
+        {
+            "source": "event4",
+            "target": "event5",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event4",
+            "target": "event56",
+            "value": "1",
+            "people": "张辽"
+        },
+        {
+            "source": "event4",
+            "target": "event59",
+            "value": "1",
+            "people": "李典"
+        },
+        {
+            "source": "event5",
+            "target": "event6",
+            "value": "1",
+            "people": "刘备"
+        },
+        {
+            "source": "event5",
+            "target": "event30",
+            "value": "1",
+            "people": "关羽"
+        },
+        {
+            "source": "event5",
+            "target": "event7",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event6",
+            "target": "event9",
+            "value": "1",
+            "people": "刘备"
+        },
+        {
+            "source": "event6",
+            "target": "event9",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event7",
+            "target": "event32",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event8",
+            "target": "event13",
+            "value": "1",
+            "people": "孙权"
+        },
+        {
+            "source": "event8",
+            "target": "event10",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event9",
+            "target": "event10",
+            "value": "1",
+            "people": "刘备"
+        },
+        {
+            "source": "event9",
+            "target": "event11",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event10",
+            "target": "event11",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event10",
+            "target": "event28",
+            "value": "1",
+            "people": "刘备"
+        },
+        {
+            "source": "event11",
+            "target": "event12",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event11",
+            "target": "event12",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event12",
+            "target": "event13",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event12",
+            "target": "event15",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event13",
+            "target": "event14",
+            "value": "1",
+            "people": "孙权"
+        },
+        {
+            "source": "event13",
+            "target": "event15",
+            "value": "1",
+            "people": "张昭"
+        },
+        {
+            "source": "event13",
+            "target": "event14",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event14",
+            "target": "event18",
+            "value": "1",
+            "people": "孙权"
+        },
+        {
+            "source": "event14",
+            "target": "event17",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event15",
+            "target": "event16",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event15",
+            "target": "event19",
+            "value": "1",
+            "people": "张昭"
+        },
+        {
+            "source": "event16",
+            "target": "event17",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event16",
+            "target": "event22",
+            "value": "1",
+            "people": "步骘"
+        },
+        {
+            "source": "event17",
+            "target": "event18",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event17",
+            "target": "event23",
+            "value": "1",
+            "people": "黄盖"
+        },
+        {
+            "source": "event17",
+            "target": "event18",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event17",
+            "target": "event24",
+            "value": "1",
+            "people": "诸葛瑾"
+        },
+        {
+            "source": "event18",
+            "target": "event25",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event18",
+            "target": "event19",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event18",
+            "target": "event19",
+            "value": "1",
+            "people": "孙权"
+        },
+        {
+            "source": "event19",
+            "target": "event20",
+            "value": "1",
+            "people": "孙权"
+        },
+        {
+            "source": "event19",
+            "target": "event22",
+            "value": "1",
+            "people": "张昭"
+        },
+        {
+            "source": "event19",
+            "target": "event21",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event20",
+            "target": "event53",
+            "value": "1",
+            "people": "孙权"
+        },
+        {
+            "source": "event21",
+            "target": "event22",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event21",
+            "target": "event25",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event22",
+            "target": "event23",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event23",
+            "target": "event24",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event23",
+            "target": "event40",
+            "value": "1",
+            "people": "黄盖"
+        },
+        {
+            "source": "event23",
+            "target": "event31",
+            "value": "1",
+            "people": "韩当"
+        },
+        {
+            "source": "event24",
+            "target": "event25",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event24",
+            "target": "event26",
+            "value": "1",
+            "people": "诸葛瑾"
+        },
+        {
+            "source": "event24",
+            "target": "event57",
+            "value": "1",
+            "people": "吕蒙"
+        },
+        {
+            "source": "event24",
+            "target": "event31",
+            "value": "1",
+            "people": "甘宁"
+        },
+        {
+            "source": "event25",
+            "target": "event26",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event25",
+            "target": "event27",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event25",
+            "target": "event26",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event26",
+            "target": "event27",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event26",
+            "target": "event27",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event27",
+            "target": "event29",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event27",
+            "target": "event30",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event27",
+            "target": "event29",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event28",
+            "target": "event29",
+            "value": "1",
+            "people": "糜竺"
+        },
+        {
+            "source": "event28",
+            "target": "event30",
+            "value": "1",
+            "people": "刘备"
+        },
+        {
+            "source": "event29",
+            "target": "event30",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event29",
+            "target": "event31",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event30",
+            "target": "event54",
+            "value": "1",
+            "people": "刘备"
+        },
+        {
+            "source": "event30",
+            "target": "event62",
+            "value": "1",
+            "people": "关羽"
+        },
+        {
+            "source": "event30",
+            "target": "event31",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event30",
+            "target": "event37",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event30",
+            "target": "event59",
+            "value": "1",
+            "people": "张飞"
+        },
+        {
+            "source": "event31",
+            "target": "event34",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event31",
+            "target": "event37",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event31",
+            "target": "event32",
+            "value": "1",
+            "people": "甘宁"
+        },
+        {
+            "source": "event31",
+            "target": "event32",
+            "value": "1",
+            "people": "韩当"
+        },
+        {
+            "source": "event31",
+            "target": "event32",
+            "value": "1",
+            "people": "蒋钦"
+        },
+        {
+            "source": "event32",
+            "target": "event39",
+            "value": "1",
+            "people": "甘宁"
+        },
+        {
+            "source": "event32",
+            "target": "event49",
+            "value": "1",
+            "people": "韩当"
+        },
+        {
+            "source": "event32",
+            "target": "event33",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event32",
+            "target": "event33",
+            "value": "1",
+            "people": "蔡瑁"
+        },
+        {
+            "source": "event32",
+            "target": "event33",
+            "value": "1",
+            "people": "张允"
+        },
+        {
+            "source": "event33",
+            "target": "event34",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event34",
+            "target": "event36",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event34",
+            "target": "event35",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event35",
+            "target": "event36",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event35",
+            "target": "event36",
+            "value": "1",
+            "people": "蒋干"
+        },
+        {
+            "source": "event36",
+            "target": "event37",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event36",
+            "target": "event39",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event36",
+            "target": "event43",
+            "value": "1",
+            "people": "蒋干"
+        },
+        {
+            "source": "event37",
+            "target": "event38",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event37",
+            "target": "event40",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event37",
+            "target": "event38",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event38",
+            "target": "event50",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event38",
+            "target": "event39",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event39",
+            "target": "event41",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event39",
+            "target": "event40",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event40",
+            "target": "event42",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event40",
+            "target": "event41",
+            "value": "1",
+            "people": "黄盖"
+        },
+        {
+            "source": "event40",
+            "target": "event42",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event41",
+            "target": "event44",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event41",
+            "target": "event55",
+            "value": "1",
+            "people": "黄盖"
+        },
+        {
+            "source": "event42",
+            "target": "event43",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event42",
+            "target": "event50",
+            "value": "1",
+            "people": "鲁肃"
+        },
+        {
+            "source": "event42",
+            "target": "event43",
+            "value": "1",
+            "people": "庞统"
+        },
+        {
+            "source": "event43",
+            "target": "event44",
+            "value": "1",
+            "people": "庞统"
+        },
+        {
+            "source": "event43",
+            "target": "event44",
+            "value": "1",
+            "people": "蒋干"
+        },
+        {
+            "source": "event43",
+            "target": "event49",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event44",
+            "target": "event45",
+            "value": "1",
+            "people": "庞统"
+        },
+        {
+            "source": "event44",
+            "target": "event46",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event45",
+            "target": "event46",
+            "value": "1",
+            "people": "徐庶"
+        },
+        {
+            "source": "event46",
+            "target": "event47",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event47",
+            "target": "event48",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event48",
+            "target": "event55",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event49",
+            "target": "event50",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event50",
+            "target": "event51",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event50",
+            "target": "event51",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event51",
+            "target": "event52",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event51",
+            "target": "event52",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event52",
+            "target": "event54",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event52",
+            "target": "event53",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event53",
+            "target": "event55",
+            "value": "1",
+            "people": "周瑜"
+        },
+        {
+            "source": "event54",
+            "target": "event62",
+            "value": "1",
+            "people": "诸葛亮"
+        },
+        {
+            "source": "event54",
+            "target": "event62",
+            "value": "1",
+            "people": "刘备"
+        },
+        {
+            "source": "event55",
+            "target": "event56",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event56",
+            "target": "event57",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event56",
+            "target": "event57",
+            "value": "1",
+            "people": "张辽"
+        },
+        {
+            "source": "event57",
+            "target": "event58",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event57",
+            "target": "event58",
+            "value": "1",
+            "people": "张辽"
+        },
+        {
+            "source": "event58",
+            "target": "event59",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event58",
+            "target": "event60",
+            "value": "1",
+            "people": "张辽"
+        },
+        {
+            "source": "event59",
+            "target": "event60",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event59",
+            "target": "event60",
+            "value": "1",
+            "people": "张飞"
+        },
+        {
+            "source": "event60",
+            "target": "event61",
+            "value": "1",
+            "people": "曹操"
+        },
+        {
+            "source": "event60",
+            "target": "event61",
+            "value": "1",
+            "people": "张辽"
+        }
+    ]
+}

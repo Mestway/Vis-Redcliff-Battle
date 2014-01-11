@@ -1,0 +1,24 @@
+#chart {
+  height: 500px;
+}
+
+.ST_node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.ST_node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.ST_link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.ST_link:hover {
+  stroke-opacity: .5;
+}

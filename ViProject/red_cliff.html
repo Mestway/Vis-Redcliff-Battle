@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" charset="utf-8" />
+    <style type="text/css">
+      h1 {
+        font-family: Times,TimesNR,serif;
+        font-size: 32px;
+        text-align: center;
+      }
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      .tx{
+        font-familty: TimeNR,Times,serif;
+        font-size: 16px;
+      }
+      #map_canvas { height: 100% }
+      .block {
+         border:0px solid #000;
+         padding:3px;
+         margin: 5px;
+         display: inline-block;
+      }
+      #relation {
+        float: right;
+        clear both;
+      }
+      #storyline {
+        float: right;
+      }
+    </style>
+    <script type="text/javascript"
+      src="http://maps.googleapis.com/maps/api/js?sensor=false">
+    </script>
+  	<link rel="stylesheet" type="text/css" href="geomap.css" />
+  	<script src="markerwithlabel.js"></script>
+    <link rel="stylesheet" type="text/css" href="storyline.css" />
+    <link rel="stylesheet" type="text/css" href="relation.css" />
+    <link rel="stylesheet" href="jquery-ui.css" />
+    <script src="jquery-1.9.1.js"></script>
+    <script src="jquery-ui.js"></script>
+    <script src="D3/d3.v3.js"></script>
+    <script src="sankey.js"></script>
+    <script src="geoInfo.js"></script>
+    <script src="storyline.js"></script>
+    <script src="relation.js"></script>
+    <script src="slider.js"></script>
+    <script type="text/javascript">
+      function initialize() {
+        GEO_initMap();
+        ST_initGraph("eventgraph.json");
+        REL_initGraph();
+      }
+    </script>
+  </head>
+  <body onload="initialize()">
+    <h1>三国演义-赤壁之战</h2>
+    <div class="block" id="slider" style="width:80%; height: 60px;">
+      <p class="tx">
+        <label for="amount">Selected Chapter:</label>
+        <input type="text" id="amount" style="border:0; color:#f6931f; font-weight:bold; " value="42-50">
+      </p>
+      <div id="chapter-selector" style="widht: 500px;"></div>
+      <p>Find a character: 
+      <select id="chslt" style="width:200px" onchange="selectsomeone()">
+        <!--<option value ="volvo">Volvo</option>-->
+      </select>
+        Showname:
+        <button type="button" onclick="ST_change()">show name</button>
+      </p>
+
+    </div>
+    <div>
+      <div class="block" id="storyline" style="width:100%; height:300px;"></div>
+      <hr />
+      <div class="block" id="map_canvas" style="width:64%; height:666px;"></div>
+      <div class="block" id="relation" style="width:32%; height:666px;"></div>
+      <hr/>
+    </div>
+  </body>
+
+  <script>
+    function selectsomeone()
+    {
+        var citySel=document.getElementById("chslt"); 
+        var nm=citySel.value; 
+        console.log(nm);
+
+        for(var j = 0; j < ST_LineInfo.length; j ++) {
+          if(ST_LineInfo[j].people == nm)
+          {
+            ST_setdown(ST_LineInfo[j]);
+          }
+        }
+    }
+    function ST_change() {
+      ST_showname = !ST_showname; 
+      var node = d3.select("#storyline").select("svg")
+                .selectAll(".ST_node")
+                .selectAll("text")
+                .text(function(d) { 
+                  if(ST_showname) {
+                    var people = "";
+                    for(var i = 0; i < d.event.people.length; i ++) {
+                      people += d.event.people[i] + ",";
+                    }
+                    return d.event.seqNum +" " +people; 
+                  } else {
+                    return d.event.seqNum;
+                  }
+                })
+    }
+  </script>
+</html>
